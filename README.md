@@ -1,4 +1,4 @@
-Pixi Renderer 
+Pixi Renderer! 
 =============
 
 #### *** IMPORTANT - V2 API CHANGES *** ####
